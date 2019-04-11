@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+	<g id="svgDef-download">
+		<path id="svgDef-download-arrow" d="M16 4h2.5s.955.001 1 1v11H24s.931-.064 0 1l-7 8s-1.069 1.064-2 0l-7-8s-1-1 0-1h4.5V5s0-1 1-1z" stroke="none" fill-rule="evenodd"/>
+		<path id="svgDef-download-line" d="M6 28h20" fill="none" stroke-width="2"/>
+	</g>
+</svg>

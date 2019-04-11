@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320">
+	<g id="svgDef-ribbon">
+		<path id="svgDef-ribbon-ribbon" d="M130 110h60v190l-30-30-30 30z" />
+		<g id="svgDef-ribbon-ribbons">
+			<use href="#svgDef-ribbon-ribbon" transform="rotate(15 160 110)" />
+			<use href="#svgDef-ribbon-ribbon" transform="rotate(-15 160 110)" />
+		</g>
+		<g id="svgDef-ribbon-raysBack">
+			<path id="svgDef-ribbon-ray" d="M160 20c4.089-15.26 49.089-3.202 45 12.058L160 110z" stroke="none" />
+			<use href="#svgDef-ribbon-ray" transform="rotate(45 160 110)" />
+			<use href="#svgDef-ribbon-ray" transform="rotate(90 160 110)" />
+			<use href="#svgDef-ribbon-ray" transform="rotate(135 160 110)" />
+			<use href="#svgDef-ribbon-ray" transform="rotate(180 160 110)" />
+			<use href="#svgDef-ribbon-ray" transform="rotate(225 160 110)" />
+			<use href="#svgDef-ribbon-ray" transform="rotate(270 160 110)" />
+			<use href="#svgDef-ribbon-ray" transform="rotate(315 160 110)" />
+		</g>
+		<g id="svgDef-ribbon-raysFront">
+			<use href="#svgDef-ribbon-raysBack" transform="rotate(22.5 160 110)" />
+		</g>
+		<circle id="svgDef-ribbon-circle" cx="160" cy="110" r="55" fill="#E1E100" stroke="none" />
+	</g>
+	<g id="svgDef-ribbon--1">
+		<use href="#svgDef-ribbon-ribbons" fill="#114880" />
+		<use href="#svgDef-ribbon-raysFront" fill="#2892E8" />
+		<use href="#svgDef-ribbon-raysBack" fill="#166199" />
+		<use href="#svgDef-ribbon-circle" />
+		<text x="160" y="144" style="text-anchor: middle; font-size: 104px;">1<tspan dy="-30" dx="-8" style="font-size: 48px;">st</tspan></text>
+	</g>
+	<g id="svgDef-ribbon--2">
+		<use href="#svgDef-ribbon-ribbons" fill="#A21114" />
+		<use href="#svgDef-ribbon-raysFront" fill="#FF797C" />
+		<use href="#svgDef-ribbon-raysBack" fill="#ED2126" />
+		<use href="#svgDef-ribbon-circle" />
+		<text x="160" y="144" style="text-anchor: middle; font-size: 104px;">2<tspan dy="-30" dx="-8" style="font-size: 48px;">nd</tspan></text>
+	</g>
+	<g id="svgDef-ribbon--3">
+		<use href="#svgDef-ribbon-ribbons" fill="#177B1A" />
+		<use href="#svgDef-ribbon-raysFront" fill="#A3E098" />
+		<use href="#svgDef-ribbon-raysBack" fill="#53B944" />
+		<use href="#svgDef-ribbon-circle" />
+		<text x="160" y="144" style="text-anchor: middle; font-size: 104px;">3<tspan dy="-30" dx="-8" style="font-size: 48px;">rd</tspan></text>
+	</g>
+	<g id="svgDef-ribbon--4">
+		<use href="#svgDef-ribbon-ribbons" fill="#4D0E85" />
+		<use href="#svgDef-ribbon-raysFront" fill="#AA94E4" />
+		<use href="#svgDef-ribbon-raysBack" fill="#7C45C0" />
+		<use href="#svgDef-ribbon-circle" />
+		<text x="160" y="144" style="text-anchor: middle; font-size: 104px;">4<tspan dy="-30" dx="-8" style="font-size: 48px;">th</tspan></text>
+	</g>
+	<g id="svgDef-ribbon--5">
+		<use href="#svgDef-ribbon-ribbons" fill="#797979" />
+		<use href="#svgDef-ribbon-raysFront" fill="#C5C5C5" />
+		<use href="#svgDef-ribbon-raysBack" fill="#949494" />
+		<use href="#svgDef-ribbon-circle" />
+		<text x="160" y="144" style="text-anchor: middle; font-size: 104px;">5<tspan dy="-30" dx="-8" style="font-size: 48px;">th</tspan></text>
+	</g>
+</svg>

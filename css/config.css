@@ -1,0 +1,34 @@
+/*!
+ * Deku Framework CSS Config
+ *
+ * @package Deku Framework
+ * @author The Deku Trombonist
+ * @copyright 2019
+ *
+ * @version 1.0
+ */
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+:root
+{
+	--deku-base-font-family: 'Open Sans', sans-serif;
+	--deku-base-font-size: 14px;
+	
+	--deku-body-background-color: #FFF;
+	
+	--deku-footer-color: #FFF;
+	--deku-footer-background-color: #124E7A;
+	--deku-footer-border: 2px solid #5D99C6;
+
+	--deku-menubar-height: 48px;
+	--deku-menubar-color: #FFF;
+	--deku-menubar-background-color: #1E69A1;
+	
+	--deku-tablelist-row-border-color: #F1F1F1;
+	--deku-tablelist-cell-border-color: #CCC;
+	--deku-tablelist-row-border: 1px solid var(--deku-tablelist-row-border-color);
+	--deku-tablelist-hover-color: rgba(0, 0, 0, 0.03);
+	--deku-tablelist-target-color: rgba(0, 227, 3, 0.1);
+	--deku-tablelist-target-hover-color: rgba(0, 227, 3, 0.15);
+}
